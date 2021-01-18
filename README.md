@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=dmsl1805)](https://github.com/dmsl1805/github-readme-stats)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=dmsl1805&count_private=true&show_icons=true&theme=yeblu)](https://github.com/dmsl1805/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmsl1805&layout=compact&theme=yeblu)](https://github.com/dmsl1805/github-readme-stats)
+
+[![Cookbook Card](https://github.com/dmsl1805/Cookbook/)](https://github.com/dmsl1805/Cookbook)
 
 <!--
 **dmsl1805/dmsl1805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
